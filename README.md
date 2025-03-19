@@ -15,7 +15,9 @@ etap3:
 Rozpoczynając gre w menu mamy do wyboru 3 opcję 
 
 1.Rozpoczęcie gry
+
 2.Zasady gry
+
 3.Tabela najlepszych wyników
 
 ![image](https://github.com/user-attachments/assets/a5bc6a68-a530-48a2-9428-c0ef791f3bc5)
